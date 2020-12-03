@@ -4,7 +4,6 @@
 I started in the world of technology through a technical course focused on computer networks, but I ended up enjoying programming a lot and here I am today. In programming I started developing web applications, with the PHP language and the laravel framework, after a while I developed in JavaScript with the React Framework. Today I develop lambda scripts at aws, using several innovative technologies, such as terraform and non-relational database like MongoDB.</p>
 
 </br>
-</br>
 
 ## :fire: My skills :fire:
 ###### Programming languages
