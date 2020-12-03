@@ -3,7 +3,7 @@
 <h4> :rocket: Let's go! :rocket: </h4>
 
 <p>Hello, my name is Rafael and I'm currently a Full Stack developer at Trimble, 
-I started in the world of technology through a technical course focused on computer networks, but I ended up enjoying programming a lot and here I am today. In programming I started developing web applications, with the PHP language and the laravel framework, after a while I started to develop in JavaScript with the React Framework. </p>
+I started in the world of technology through a technical course focused on computer networks, but I ended up enjoying programming a lot and here I am today. In programming I started developing web applications, with the PHP language and the laravel framework, after a while I developed in JavaScript with the React Framework.</p>
 
 <h4>My skills</h4>
 
