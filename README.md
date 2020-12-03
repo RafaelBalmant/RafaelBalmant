@@ -7,7 +7,6 @@ I started in the world of technology through a technical course focused on compu
 
 ## :fire: My skills :fire:
 <h4> Programming languages </h4>
-<h5> <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20">  JavaScript (ES5, ES6)</h5>
-<h5> <img src="https://png.pngitem.com/pimgs/s/11-118900_php-elephant-logo-svg-hd-png-download.png" width="20" height="20">  PHP</h5>
-
+<span> <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20">  JavaScript (ES5, ES6)</span>
+<span> <img src="https://png.pngitem.com/pimgs/s/11-118900_php-elephant-logo-svg-hd-png-download.png" width="20" height="20">  PHP</span>
 <img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200"/>
