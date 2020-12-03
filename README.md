@@ -9,6 +9,6 @@ I started in the world of technology through a technical course focused on compu
 <h4> Programming languages </h4>
 <span> <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20">  JavaScript (ES5, ES6)</span></br>
 <span> <img src="https://png.pngitem.com/pimgs/s/11-118900_php-elephant-logo-svg-hd-png-download.png" width="20" height="20">  PHP</span></br>
-<span> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jBmu5px7FgAwGrV5Quw1ZA7AWbrU-l3FUyqlfiPNLVDrkKcvleSx0VetIPgSbKi4CWaTpjN1Ue9NvySFIrmXHHKX4ZbqmoQVSg&usqp=CAU&ec=45732300" width="20" height="20">  JavaScript (ES5, ES6)</span></br>
+<span> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jBmu5px7FgAwGrV5Quw1ZA7AWbrU-l3FUyqlfiPNLVDrkKcvleSx0VetIPgSbKi4CWaTpjN1Ue9NvySFIrmXHHKX4ZbqmoQVSg&usqp=CAU&ec=45732300" width="20" height="20">  Dart</span></br>
 
 <img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200"/>
