@@ -7,10 +7,6 @@ I started in the world of technology through a technical course focused on compu
 </br>
 
 ## :fire: My skills :fire:
-<ul list-style-type="none">
-<p style="color:red;">Programming languages</p>
-<li>
-  <h6>JavaScript (ES5, ES6)</h6> 
-</li>
-</ul>
+<h3>Programming languages</h3>
+<p>JavaScript (ES5, ES6)</p>
 <img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200"/>
