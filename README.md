@@ -1,7 +1,6 @@
-<h4> :rocket: Let's go! :rocket: </h4>
-
 <img src="https://steemitimages.com/0x0/https://media.giphy.com/media/l41m4fSSzstAJ4sBG/giphy.gif" width="300" height="200"/>
 
+<h4> :rocket: Let's go! :rocket: </h4>
 
 <p>Hello, my name is Rafael and I'm currently a Full Stack developer at Trimble</p>
 
