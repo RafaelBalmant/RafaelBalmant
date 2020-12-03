@@ -7,7 +7,7 @@ I started in the world of technology through a technical course focused on compu
 
 <h4> :fire: My skills :fire: </h4>
 <ul list-style-type="none">
-<h5>Programming languages</h5>
+<p>Programming languages</p>
 <li>
   <h6>JavaScript (ES5, ES6)</h6> 
 </li>
