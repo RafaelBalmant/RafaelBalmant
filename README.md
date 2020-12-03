@@ -7,13 +7,13 @@ I started in the world of technology through a technical course focused on compu
 
 ## :fire: My skills :fire:
 
-<h4  align="left"> :computer: Programming languages</h4>
-<span align="left"><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20">  JavaScript (ES5, ES6)</span></br>
-<span align="left"><img src="https://png.pngitem.com/pimgs/s/11-118900_php-elephant-logo-svg-hd-png-download.png" width="20" height="20">  PHP</span></br>
-<span align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jBmu5px7FgAwGrV5Quw1ZA7AWbrU-l3FUyqlfiPNLVDrkKcvleSx0VetIPgSbKi4CWaTpjN1Ue9NvySFIrmXHHKX4ZbqmoQVSg&usqp=CAU&ec=45732300" width="20" height="20">  Dart</span></br>
-<h4 align="center"> :page_facing_up: Database</h4>
-<span align="center"> <img src="https://media.glassdoor.com/sqll/433703/mongodb-squarelogo-1564695792753.png" width="20" height="20">  MongoDB</span></br>
-<span align="center"> <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" width="20" height="20">  MongoDB</span></br>
+<h4> :computer: Programming languages</h4>
+<span><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20">  JavaScript (ES5, ES6)</span></br>
+<span><img src="https://png.pngitem.com/pimgs/s/11-118900_php-elephant-logo-svg-hd-png-download.png" width="20" height="20">  PHP</span></br>
+<span> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jBmu5px7FgAwGrV5Quw1ZA7AWbrU-l3FUyqlfiPNLVDrkKcvleSx0VetIPgSbKi4CWaTpjN1Ue9NvySFIrmXHHKX4ZbqmoQVSg&usqp=CAU&ec=45732300" width="20" height="20">  Dart</span></br>
+<h4> :page_facing_up: Database</h4>
+<span> <img src="https://media.glassdoor.com/sqll/433703/mongodb-squarelogo-1564695792753.png" width="20" height="20">  MongoDB</span></br>
+<span> <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" width="20" height="20">  MySQL</span></br>
 
 
 
