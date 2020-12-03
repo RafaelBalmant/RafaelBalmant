@@ -6,7 +6,7 @@ I started in the world of technology through a technical course focused on compu
 </div>
 
 <h4> :fire: My skills :fire: </h4>
-<ul>
+<ul list-style-type="none">
 <h5>Programming languages</h5>
 <li>
   <h6>JavaScript (ES5, ES6)</h6> 
