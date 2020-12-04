@@ -1,6 +1,6 @@
 ## :rocket: Let's go! :rocket:
 <img src="https://media2.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="320" height="200" align="left"/>
-<p align="right">Hello, my name is Rafael and I'm currently a Full Stack developer at Trimble, 
+<p align="left">Hello, my name is Rafael and I'm currently a Full Stack developer at Trimble, 
 I started in the world of technology through a technical course focused on computer networks, but I ended up enjoying programming a lot and here I am today. In programming I started developing web applications, with the PHP language and the laravel framework, after a while I developed in JavaScript with the React Framework. Today I develop lambda scripts at aws, using several innovative technologies, such as terraform and non-relational database like MongoDB.</p>
 
 </br>
