@@ -9,8 +9,8 @@ I started in the world of technology through a technical course focused on compu
 
 <table>
 <tr>
-<td><h4>:computer: Programming languages</h4></td>
-<td><h4><span align="center"> :page_facing_up: Database</span></h4></td>
+<td><b>:computer: Programming languages</b></td>
+<td><b><span align="center"> :page_facing_up: Database</span></b></td>
 </tr>
 <tr>
 <td><span align="left"><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20">  JavaScript (ES5, ES6)</span></br></td>
