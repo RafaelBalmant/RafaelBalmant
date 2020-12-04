@@ -20,7 +20,7 @@ I started in the world of technology through a technical course focused on compu
 <tr>
 <td><span align="left"><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20">  JavaScript (ES5, ES6)</span></br></td>
 <td><span align="center"> <img src="https://media.glassdoor.com/sqll/433703/mongodb-squarelogo-1564695792753.png" width="20" height="20">  MongoDB</span></br></td>
-<td><span align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="25" height="20">  React</span></td>
+<td><span align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="20" height="17">  React</span></td>
 <td><span align="center"> <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-512.png" width="20" height="20">  Debian</span></td>
 </tr>
 <tr>
