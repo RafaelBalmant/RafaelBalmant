@@ -7,7 +7,7 @@ I started in the world of technology through a technical course focused on compu
 
 ## :fire: My skills :fire:
 
-<table>
+<table align="right">
 <tr>
 <td><b>:computer: Programming languages</b></td>
 <td><b><span align="center"> :page_facing_up: Database</span></b></td>
@@ -36,4 +36,4 @@ I started in the world of technology through a technical course focused on compu
 </tr>
 </table>
 
-<img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200"/>
+<img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200" align="left"/>
