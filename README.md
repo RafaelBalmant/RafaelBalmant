@@ -12,6 +12,7 @@ I started in the world of technology through a technical course focused on compu
 
 <table align="left">
 <tr>
+<!--- HEADER --->
 <td><b>:computer: Programming Languages</b></td>
 <td><b><span align="center"> :page_facing_up: Database</span></b></td>
 <td><b><span align="center"> :wrench: Frameworks</span></b></td>
@@ -36,16 +37,16 @@ I started in the world of technology through a technical course focused on compu
 <tr>
 <td><span align="left"><img src="https://png.pngitem.com/pimgs/s/11-118900_php-elephant-logo-svg-hd-png-download.png" width="25" height="20">  PHP</span></br>
 <td><span align="left"></br></td>
+<td><span align="left"><img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="25" height="20">  Flutter</span></br></td>
 <td><span align="left"></br></td>
 </td>
-<td><span align="left"><img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width="25" height="20">  Flutter</span></br></td>
 <td><span align="left"></br></td>
 </tr>
 <tr>
 <td><span align="left"></br></td>
 <td><span align="left"></br></td>
-<td><span align="left"></br></td>
 <td><span align="left"><img src="https://cdn.iconscout.com/icon/free/png-512/laravel-226015.png" height="20">  Laravel</span></br></td>
+<td><span align="left"></br></td>
 <td><span align="left"></br></td>
 </tr>
 </table>
