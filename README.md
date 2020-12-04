@@ -1,4 +1,4 @@
-## :rocket: Let's go! :rocket:
+## :rocket: Let's go!
 <img src="https://media2.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="320" height="200" align="left"/>
 <p align="left">Hello, my name is Rafael and I'm currently a Full Stack developer at Trimble, 
 I started in the world of technology through a technical course focused on computer networks, but I ended up enjoying programming a lot and here I am today. In programming I started developing web applications, with the PHP language and the laravel framework, after a while I developed in JavaScript with the 
@@ -8,9 +8,9 @@ I started in the world of technology through a technical course focused on compu
 </br>
 
 
-## :fire: My skills :fire:
+## :fire: My skills
 
-<table align="left">
+<table>
 <tr>
 <!--- HEADER --->
 <td><b>:computer: Programming Languages</b></td>
@@ -50,3 +50,16 @@ I started in the world of technology through a technical course focused on compu
 <td><span align="left"></br></td>
 </tr>
 </table>
+
+</br>
+
+## :iphone: Talk to me
+
+<img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200" align="left"/>
+<p align="left">So that's it, if you want to contact me for tech help or just talk about something</p>
+<p align="left">:email: balmantrafael@gmail.com</p>
+<p align="left">:telephone_receiver: +55 43 999197739</p>
+
+
+
+
