@@ -7,14 +7,22 @@ I started in the world of technology through a technical course focused on compu
 
 ## :fire: My skills :fire:
 
-<h4> :computer: Programming languages</h4>
-<span><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20">  JavaScript (ES5, ES6)</span></br>
-<span><img src="https://png.pngitem.com/pimgs/s/11-118900_php-elephant-logo-svg-hd-png-download.png" width="20" height="20">  PHP</span></br>
-<span> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jBmu5px7FgAwGrV5Quw1ZA7AWbrU-l3FUyqlfiPNLVDrkKcvleSx0VetIPgSbKi4CWaTpjN1Ue9NvySFIrmXHHKX4ZbqmoQVSg&usqp=CAU&ec=45732300" width="20" height="20">  Dart</span></br>
-<h4> :page_facing_up: Database</h4>
-<span> <img src="https://media.glassdoor.com/sqll/433703/mongodb-squarelogo-1564695792753.png" width="20" height="20">  MongoDB</span></br>
-<span> <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" width="20" height="20">  MySQL</span></br>
-
-
+<table>
+<tr>
+<td><h4>:computer: Programming languages</h4></td>
+<td><h4><span align="center"> :page_facing_up: Database</span></h4></td>
+</tr>
+<tr>
+<td><span align="left"><img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="20" height="20">  JavaScript (ES5, ES6)</span></br></td>
+<td><span align="center"> <img src="https://media.glassdoor.com/sqll/433703/mongodb-squarelogo-1564695792753.png" width="20" height="20">  MongoDB</span></br></td>
+</tr>
+<tr>
+<td><span align="left"><span align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jBmu5px7FgAwGrV5Quw1ZA7AWbrU-l3FUyqlfiPNLVDrkKcvleSx0VetIPgSbKi4CWaTpjN1Ue9NvySFIrmXHHKX4ZbqmoQVSg&usqp=CAU&ec=45732300" width="20" height="20">  Dart</span></br></td>
+<td><span align="center"> <img src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" width="20" height="20">  MySQL</span></br></td>
+</tr>
+<tr>
+<td><span align="left"><img src="https://png.pngitem.com/pimgs/s/11-118900_php-elephant-logo-svg-hd-png-download.png" width="25" height="20">  PHP</span></br></td>
+</tr>
+</table>
 
 <img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200"/>
