@@ -1,13 +1,13 @@
 ## :rocket: Let's go! :rocket:
-<img src="https://media2.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="320" height="200" align="right"/>
-<p align="left">Hello, my name is Rafael and I'm currently a Full Stack developer at Trimble, 
+<img src="https://media2.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="320" height="200" align="left"/>
+<p align="right">Hello, my name is Rafael and I'm currently a Full Stack developer at Trimble, 
 I started in the world of technology through a technical course focused on computer networks, but I ended up enjoying programming a lot and here I am today. In programming I started developing web applications, with the PHP language and the laravel framework, after a while I developed in JavaScript with the React Framework. Today I develop lambda scripts at aws, using several innovative technologies, such as terraform and non-relational database like MongoDB.</p>
 
 </br>
 
 ## :fire: My skills :fire:
 
-<table align="right">
+<table align="left">
 <tr>
 <td><b>:computer: Programming languages</b></td>
 <td><b><span align="center"> :page_facing_up: Database</span></b></td>
@@ -35,5 +35,4 @@ I started in the world of technology through a technical course focused on compu
 <td><span align="left"><img src="https://cdn.iconscout.com/icon/free/png-512/laravel-226015.png" height="20">  Laravel</span></br></td>
 </tr>
 </table>
-
-<img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200" align="left"/>
+<img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200" align="right"/>
