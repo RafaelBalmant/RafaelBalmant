@@ -43,4 +43,3 @@ I started in the world of technology through a technical course focused on compu
 <td><span align="left"></br></td>
 </tr>
 </table>
-<img src="https://66.media.tumblr.com/2aaa1b7f7117e82c118488ce2e8685b5/0af6b7ea702e7603-dd/s500x750/009e492f638173042dcde8d05b0772f798050148.gif" width="320" height="200" align="right"/>
