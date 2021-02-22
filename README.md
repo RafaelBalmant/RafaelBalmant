@@ -31,6 +31,8 @@ I started in the world of technology through a technical course focused on compu
 <td><span align="center"> <img src="https://cdn.iconscout.com/icon/free/png-512/vue-282497.png" width="20" height="20"> Vue</span></td>
 <td><span align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="20" height="20">  Arch</span></td>
 <td><span align="center"> :wrench: SQS</span></td>
+<td><span align="center"> :wrench: API Gateway</span></td>
+
 </tr>
 </tr>
 <tr>
