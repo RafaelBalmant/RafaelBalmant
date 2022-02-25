@@ -27,6 +27,9 @@ I started in the world of technology through a technical course focused on compu
 <p align="left">So that's it, if you want to contact me for tech help or just talk about something</p>
 <p align="left">:email: balmantrafael@gmail.com</p>
 <p align="left">:telephone_receiver: +55 43 999197739</p>
+<p align="left">CV: https://drive.google.com/file/d/1xR7RwwtCSmSfkfIkMgpVHY4iAnvNESSj/view?usp=sharing </p>
+<p align="left">linkedin: https://www.linkedin.com/in/rafael-brandt-balmant-429461162/ </p>
+
 
 
 
