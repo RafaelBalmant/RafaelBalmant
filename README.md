@@ -18,7 +18,7 @@ I started in the world of technology through a technical course focused on compu
 </br>
 <strong>Metodologias:</strong> Scrum / Kanban
 </br>
-<strong>Outras competencias:</strong: Serviços AWS / BDD / TDD
+<strong>Outras competencias:</strong>: Serviços AWS / BDD / TDD
 
 
 ## :iphone: Talk to me
