@@ -1,6 +1,6 @@
 ## :rocket: Let's go!
 <img src="https://media2.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="320" height="200" align="left"/>
-<p align="left">Hello, my name is Rafael and I'm currently a FrontEnd at LeadLovers, 
+<p align="left">Hello, my name is Rafael and I'm currently a FullStack Enginner at Afya, 
 I started in the world of technology through a technical course focused on computer networks, but I ended up enjoying programming a lot and here I am today. In programming I started developing web applications, with the PHP language and the laravel framework, after a while I developed in JavaScript with React.</p>
 
 </br>
@@ -10,7 +10,7 @@ I started in the world of technology through a technical course focused on compu
 
 ## :fire: My skills
 
-<strong>Linguagens:</strong> JavaScript / NODE / PHP / Python / Dart /- C# / SQL
+<strong>Linguagens:</strong> JavaScript / NODE / PHP / Python / Dart / C# / SQL
 </br>
 <strong>Frameworks:</strong> React / React native / Angular / Vue / Laravel / NextJs / MVC / Flutter
 </br>
