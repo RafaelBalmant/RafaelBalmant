@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
 </head>
 <body style="padding: 10px; display: flex; flex-direction: column">
 <div>
