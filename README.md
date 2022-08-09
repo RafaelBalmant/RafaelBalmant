@@ -34,7 +34,6 @@
       <p>So that's it, if you want to contact me for tech help or just talk about something</p>
       <p>balmantrafael@gmail.com</p>
       <p>+55 43 999197739</p>
-      <p >CV: https://drive.google.com/file/d/1xR7RwwtCSmSfkfIkMgpVHY4iAnvNESSj/view?usp=sharing </p>
       <p >linkedin: https://www.linkedin.com/in/rafael-brandt-balmant-429461162/ </p>
     </div>
   </div>
