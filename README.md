@@ -9,8 +9,9 @@
   <div style="display: flex">
     <img alt="img-1" src="https://media2.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="320" height="200" />
     <div style="padding: 20px; max-width: 750px">
-      <p>Hello, my name is Rafael, and I'm currently a FullStack Engineer at Afya,
-        I started in the world of technology through a technical course focused on computer networks, but I ended up enjoying programming a lot and here I am today. In programming I started developing web applications, with the PHP language and the laravel framework, after a while I developed in JavaScript with React.</p>
+      <p>
+          Hello, my name is Rafael and I am a software developer with experience in several languages and frameworks, including JavaScript, Typescript, Node, Serverless, React, NextJs, SQL, NOSQL, PHP, React Native, Angular, Vue, Laravel, NestJS, MVC and Monorepo . In addition, I have knowledge in test development, methodologies and tools, both for manual and automated tests, using tools such as Selenium, Robot, Jest and Cypress. I also have skills in agile methodologies such as Scrum and Kanban, as well as basic knowledge in AWS services, networks, Linux and Docker.
+      </p>
     </div>
   </div>
 </div>
